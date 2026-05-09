@@ -1,113 +1,95 @@
-<h1 align="center">Hi, I'm Ayush 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayushsrivastwa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ayushishere.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="mailto:ayushishere17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Hey, Ayush here! 👨‍💻
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17maiayush&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://img.shields.io/badge/SDE--1_@_GoKwik-FFB800?style=for-the-badge&logo=&logoColor=black&labelColor=000000" alt="SDE-1 at GoKwik" />
 
----
+<br/>
 
-### About me
+<a href="https://linkedin.com/in/ayushsrivastwa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ayushishere.hashnode.dev">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="mailto:ayushishere17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🚀 **Backend Engineer** at **GoKwik**, building production-grade distributed systems serving **12,000+ D2C merchants** — Kafka pipelines, multi-tenant architecture, and real-time messaging infrastructure on **Go** and **TypeScript**.
+<br/><br/>
 
-🔭 **Currently exploring:** Agentic AI infrastructure — shipped an MCP server in production, exploring MCTS for agentic coding workflows, building Python + PyTorch + RL pipelines on side projects.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=17maiayush.17maiayush&left_color=000000&right_color=FFB800&left_text=Profile%20Visitors" alt="Profile visitors" />
 
-✍️ **Writing about** distributed systems, agentic AI, and the unglamorous work that makes engineering teams ship faster.
+</div>
 
 ---
 
-### What I work on
+## 🧩 About me
 
-- 🔹 **Distributed systems** — Kafka topic decoupling, read-replica routing across 9 microservices, event-driven architectures
-- 🔹 **Multi-tenant infrastructure** — security-aware backends serving 12,000+ merchants, IDOR remediation
-- 🔹 **Performance & observability** — Redis caching, P99 latency tuning, SigNoz instrumentation
-- 🔹 **Agentic AI** — MCP servers, LLM integration (Claude / OpenAI), MCTS, prompt engineering
+I build **production-grade distributed systems** at GoKwik, serving **12,000+ D2C merchants** through Kafka pipelines, multi-tenant architecture, and real-time messaging infrastructure on **Go** and **TypeScript**.
+
+Lately I've been going deep on **agentic AI infra** — shipped an **MCP server** in production, explored **MCTS** for agentic coding workflows, and built **Python + PyTorch + RL** pipelines on side projects.
+
+I write about distributed systems, agentic AI, and the unglamorous engineering work that makes teams ship faster.
 
 ---
 
-### Tech I use daily
+## ⚡ What I work on
+
+- 🔥 **Distributed systems** — Kafka topic decoupling, read-replica routing across 9 microservices, event-driven architectures
+- 🛡️ **Multi-tenant infra** — security-aware backends serving 12,000+ merchants, IDOR remediation, cross-tenant isolation
+- ⚡ **Performance & observability** — Redis caching, P99 latency tuning, error pipeline re-architecture, SigNoz instrumentation
+- 🤖 **Agentic AI** — MCP servers, LLM integration (Claude / OpenAI), MCTS, prompt engineering, RAG
+
+---
+
+## 🛠️ Tech stack
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,python,cpp" />
 </p>
 
-#### Backend & Frameworks
+#### Backend & frameworks
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express" />
 </p>
 
-#### Data & Messaging
+#### Data & messaging
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
 </p>
 
 #### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
 </p>
 
-#### AI / Agentic Systems
+#### AI / Agentic
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 ---
 
-### Featured projects
+## 📌 Featured projects
 
-📡 **[Ai.Autism](#)** — Multi-modal AI therapy support system. PyTorch + OpenCV + RL (PPO) personalization, HIPAA-aligned secure architecture, multi-tier RBAC.
+🧠 **[Ai.Autism](#)** — Multi-modal AI therapy support system. PyTorch + OpenCV + RL (PPO) personalization, HIPAA-aligned secure architecture, multi-tier RBAC.
 
 🔐 **[MultiSafe Drive](#)** — Secure C++17 file management system. POSIX system calls, AES-256 encryption, SQLCipher data-at-rest, pthread concurrency.
 
-*Pinned repos below ↓*
-
 ---
 
-### GitHub stats
+## 🔥 GitHub streak
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=17maiayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17maiayush&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=17maiayush&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"The unglamorous work that makes engineering teams ship faster."</i>
-</p>
+<div align="center">
+
+*"The unglamorous work that makes engineering teams ship faster."*
+
+</div>
