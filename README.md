@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hey, Ayush here! 
+# Hey, Ayush here! 👨‍💻
 
 <a href="https://www.gokwik.co/">
-  <img src="https://logo.clearbit.com/gokwik.co" height="40" alt="GoKwik" />
+  <img src="https://raw.githubusercontent.com/17maiayush/17maiayush/main/logo.svg" height="32" alt="GoKwik" />
 </a>
-&nbsp;&nbsp;
-<strong>SDE-1 @ GoKwik</strong>
+&nbsp;&nbsp;<strong>SDE-1 @ GoKwik</strong>
 
 <br/><br/>
 
@@ -37,7 +36,7 @@
 
 #### Backend & frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express,nodejs" />
 </p>
 
 #### Data & messaging
@@ -55,7 +54,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
----
 ---
 
 ## ⚡ Praise me for
@@ -67,9 +65,7 @@
 
 ---
 
----
-
-##  Know me better
+## 🧩 Know me better
 
 I build **production-grade distributed systems** at GoKwik, serving **12,000+ D2C merchants** through Kafka pipelines, multi-tenant architecture, and real-time messaging infrastructure on **Go** and **TypeScript**.
 
@@ -79,40 +75,11 @@ I write about distributed systems, agentic AI, and the unglamorous engineering w
 
 ---
 
-## 🛠️ Tech stack I daily hustle on
-
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,python,cpp" />
-</p>
-
-#### Backend & frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express" />
-</p>
-
-#### Data & messaging
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
-</p>
-
-#### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
-</p>
-
-#### AI / Agentic
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
----
-
 ## 📌 Featured projects
 
-🧠 **[Ai.Autism](#)** — Multi-modal AI therapy support system. PyTorch + OpenCV + RL (PPO) personalization, HIPAA-aligned secure architecture, multi-tier RBAC.
+🧠 **[Ai.Autism](https://github.com/17maiayush)** — Multi-modal AI therapy support system. PyTorch + OpenCV + RL (PPO) personalization, HIPAA-aligned secure architecture, multi-tier RBAC.
 
-🔐 **[MultiSafe Drive](#)** — Secure C++17 file management system. POSIX system calls, AES-256 encryption, SQLCipher data-at-rest, pthread concurrency.
+🔐 **[MultiSafe Drive](https://github.com/17maiayush)** — Secure C++17 file management system. POSIX system calls, AES-256 encryption, SQLCipher data-at-rest, pthread concurrency.
 
 ---
 
