@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, Ayush here! 👨‍💻
+# Hey, Ayush here! 
 
 <img src="https://img.shields.io/badge/SDE--1_@_GoKwik-FFB800?style=for-the-badge&logo=&logoColor=black&labelColor=000000" alt="SDE-1 at GoKwik" />
 
