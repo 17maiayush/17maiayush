@@ -2,9 +2,13 @@
 
 # Hey, Ayush here! 
 
-<img src="https://img.shields.io/badge/SDE--1_@_GoKwik-FFB800?style=for-the-badge&logo=&logoColor=black&labelColor=000000" alt="SDE-1 at GoKwik" />
+<a href="https://www.gokwik.co/">
+  <img src="https://logo.clearbit.com/gokwik.co" height="40" alt="GoKwik" />
+</a>
+&nbsp;&nbsp;
+<strong>SDE-1 @ GoKwik</strong>
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/ayushsrivastwa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,7 +28,48 @@
 
 ---
 
-## 🧩 About me
+## 🛠️ Tech stack I daily hustle on
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,python,cpp" />
+</p>
+
+#### Backend & frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express" />
+</p>
+
+#### Data & messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
+</p>
+
+#### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
+</p>
+
+#### AI / Agentic
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+---
+---
+
+## ⚡ Praise me for
+
+- 🔥 **Distributed systems** — Kafka topic decoupling, read-replica routing across 9 microservices, event-driven architectures
+- 🛡️ **Multi-tenant infra** — security-aware backends serving 12,000+ merchants, IDOR remediation, cross-tenant isolation
+- ⚡ **Performance & observability** — Redis caching, P99 latency tuning, error pipeline re-architecture, SigNoz instrumentation
+- 🤖 **Agentic AI** — MCP servers, LLM integration (Claude / OpenAI), MCTS, prompt engineering, RAG
+
+---
+
+---
+
+##  Know me better
 
 I build **production-grade distributed systems** at GoKwik, serving **12,000+ D2C merchants** through Kafka pipelines, multi-tenant architecture, and real-time messaging infrastructure on **Go** and **TypeScript**.
 
@@ -34,16 +79,7 @@ I write about distributed systems, agentic AI, and the unglamorous engineering w
 
 ---
 
-## ⚡ What I work on
-
-- 🔥 **Distributed systems** — Kafka topic decoupling, read-replica routing across 9 microservices, event-driven architectures
-- 🛡️ **Multi-tenant infra** — security-aware backends serving 12,000+ merchants, IDOR remediation, cross-tenant isolation
-- ⚡ **Performance & observability** — Redis caching, P99 latency tuning, error pipeline re-architecture, SigNoz instrumentation
-- 🤖 **Agentic AI** — MCP servers, LLM integration (Claude / OpenAI), MCTS, prompt engineering, RAG
-
----
-
-## 🛠️ Tech stack
+## 🛠️ Tech stack I daily hustle on
 
 #### Languages
 <p>
