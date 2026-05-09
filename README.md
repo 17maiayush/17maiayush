@@ -2,9 +2,7 @@
 
 # Hey, Ayush here! 👨‍💻
 
-<a href="https://www.gokwik.co/">
-  <img src="https://raw.githubusercontent.com/17maiayush/17maiayush/main/logo.svg" height="32" alt="GoKwik" />
-</a>
+<img src="https://raw.githubusercontent.com/17maiayush/17maiayush/main/logo.svg" height="40" alt="GoKwik" />
 &nbsp;&nbsp;<strong>SDE-1 @ GoKwik</strong>
 
 <br/><br/>
@@ -36,7 +34,7 @@
 
 #### Backend & frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,fastify,flask,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,flask" />
 </p>
 
 #### Data & messaging
